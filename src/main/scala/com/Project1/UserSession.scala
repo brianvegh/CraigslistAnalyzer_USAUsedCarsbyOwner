@@ -52,6 +52,7 @@ class UserSession (user: User,sessionID: SessionID) extends Serializable {
   temp = ad.withColumn("Prices", priceModUDF('Price))
   ad = temp
 
+
   //date Mod code
   import java.util.Calendar
   val YYYY: String = Calendar.getInstance().get(Calendar.YEAR).toString()
