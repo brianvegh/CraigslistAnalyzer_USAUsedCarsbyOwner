@@ -15,6 +15,4 @@ The available queries are:
 [4]. View counts of car brands for sale
 [5]. Calculate percent of Posts that have images
 
-<img src="https://github.com/brianvegh/CraigslistAnalyzer_USAUsedCarsbyOwner/blob/main/images/Octoparse2.png" width="100" height="100">
-
-<img src="https://github.com/brianvegh/CraigslistAnalyzer_USAUsedCarsbyOwner/blob/main/images/Octoparse2.png">
+<img src="https://github.com/brianvegh/CraigslistAnalyzer_USAUsedCarsbyOwner/blob/main/images/Octoparse2.png" width="1024" height="768">
