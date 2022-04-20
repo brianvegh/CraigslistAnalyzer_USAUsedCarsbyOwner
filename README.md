@@ -12,11 +12,11 @@ CraigslistAnalyzer_USAUsedCarsbyOwner is a Scala application that cleans, proces
 
 The available queries are:
 
-[1]. Refresh Dataframes - Read data into dataframes from cleaned .csv data files.
-[2]. Average Year of Car Made by Brand
-[3]. Average Price for Car of X year
-[4]. View counts of car brands for sale
-[5]. Calculate percent of Posts that have images
+1. Refresh Dataframes - Read data into dataframes from cleaned .csv data files.
+2. Average Year of Car Made by Brand
+3. Average Price for Car of X year
+4. View counts of car brands for sale
+5. Calculate percent of Posts that have images
 
 ## Technologies Used
 
